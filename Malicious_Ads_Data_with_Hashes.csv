@@ -6,8 +6,8 @@ Date,Time,IPAddress,URL,SHA256
 2025-01-22,21:37:59 UTC,5.252.153.241,http://5.252.153.241/api/file/get-file/264872,
 2025-01-22,21:38:01 UTC,5.252.153.241,http://5.252.153.241/api/file/get-file/29842.ps1,
 2025-01-22,21:38:01 UTC,5.252.153.241,http://5.252.153.241/8182020,
-2025-01-22,21:39:17 UTC,45.125.66.32:2917,"HTTPS/TLSv1.2 traffic, self-signed certificate",
-2025-01-22,21:39:57 UTC,45.125.66.252:443,"HTTPS/TLSv1.2 traffic, self-signed certificate",
+2025-01-22,21:39:17 UTC,45.125.66.32:2917,,
+2025-01-22,21:39:57 UTC,45.125.66.252:443,,
 2025-01-22,21:37 UTC,,,4bed34b1cd5663a5a857b3bbf81cc5413c61cb561e9a90067b57da08b01ae70b
 2025-01-22,21:39:08 UTC,,,a833f27c2bb4cad31344e70386c44b5c221f031d7cd2f2a6b8601919e790161e
 2025-01-22,21:39:08 UTC,,,9634ecaf469149379bba80a745f53d823948c41ce4e347860701cbdff6935192
@@ -15,3 +15,11 @@ Date,Time,IPAddress,URL,SHA256
 2025-01-22,21:39:08 UTC,,,3448da03808f24568e6181011f8521c0713ea6160efd05bff20c43b091ff59f7
 2025-01-22,21:39:08 UTC,,,fd045fcede68ce2fda2531a9dd28f407aab0f29b3dd3c86e017172abee93386c
 ,,,burleson-appliance,
+,,,http://5.252.153.241/api/file/get-file/TeamViewer
+,,,http://5.252.153.241/api/file/get-file/Teamviewer_Resource_fr
+,,,http://5.252.153.241/api/file/get-file/TV
+,,,http://5.252.153.241/api/file/get-file/pas.ps1
+,,,http://5.252.153.241/8182020?k=message%20=%20startup%20shortcut%20created;%20%20status%20=%20success;
+,,,http://5.252.153.241/8182020?k=script:%20RunRH,%20status:%20OK,%20message:%20PS%20process%20started
+,,45.125.66.32:2917,
+
