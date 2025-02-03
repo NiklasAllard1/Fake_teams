@@ -19,7 +19,6 @@ Date,Time,IPAddress,URL,SHA256
 ,,,http://5.252.153.241/api/file/get-file/Teamviewer_Resource_fr
 ,,,http://5.252.153.241/api/file/get-file/TV
 ,,,http://5.252.153.241/api/file/get-file/pas.ps1
-,,,http://5.252.153.241/8182020?k=message%20=%20startup%20shortcut%20created;%20%20status%20=%20success;
+",,,http://5.252.153.241/8182020?k=message%20=%20startup%20shortcut%20created;%20%20status%20=%20success;"
 ,,,http://5.252.153.241/8182020?k=script:%20RunRH,%20status:%20OK,%20message:%20PS%20process%20started
 ,,45.125.66.32:2917,
-
