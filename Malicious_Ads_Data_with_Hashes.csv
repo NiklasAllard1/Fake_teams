@@ -15,10 +15,11 @@ Date,Time,IPAddress,URL,SHA256
 2025-01-22,21:39:08 UTC,,,3448da03808f24568e6181011f8521c0713ea6160efd05bff20c43b091ff59f7
 2025-01-22,21:39:08 UTC,,,fd045fcede68ce2fda2531a9dd28f407aab0f29b3dd3c86e017172abee93386c
 ,,,burleson-appliance,
-,,,http://5.252.153.241/api/file/get-file/TeamViewer
-,,,http://5.252.153.241/api/file/get-file/Teamviewer_Resource_fr
-,,,http://5.252.153.241/api/file/get-file/TV
-,,,http://5.252.153.241/api/file/get-file/pas.ps1
-",,,http://5.252.153.241/8182020?k=message%20=%20startup%20shortcut%20created;%20%20status%20=%20success;"
-,,,http://5.252.153.241/8182020?k=script:%20RunRH,%20status:%20OK,%20message:%20PS%20process%20started
-,,45.125.66.32:2917,
+,,,http://5.252.153.241/api/file/get-file/TeamViewer,
+,,,http://5.252.153.241/api/file/get-file/Teamviewer_Resource_fr,
+,,,http://5.252.153.241/api/file/get-file/TV,
+,,,http://5.252.153.241/api/file/get-file/pas.ps1,
+,,,http://5.252.153.241/8182020?k=message%20=%20startup%20shortcut%20created;%20%20status%20=%20success,
+,,,http://5.252.153.241/8182020?k=script:%20RunRH,%20status:%20OK
+,,45.125.66.32:2917,,
+,,,,
